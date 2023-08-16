@@ -18,6 +18,8 @@ Emloyee Tracker that allows you to add employee, department, role and update the
 ## Credits
 
 Coding Bootcamp and stackoverflow.
+Such as https://stackoverflow.com/questions/72469293/typeerror-cannot-read-property-then-of-undefined-using-promises
+for when Im getting error.
 
 ## License
 
